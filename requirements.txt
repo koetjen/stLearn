@@ -1,7 +1,4 @@
-leidenalg
-louvain
-numba
+
 numpy>=1.18,<1.22
 scanpy>=1.8.2
 scikit-image>=0.19.2
-tensorflow

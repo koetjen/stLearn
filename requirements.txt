@@ -1,6 +1,7 @@
+bokeh
 click
 leidenalg
-numba
+numba<=0.57.1
 numpy>=1.18,<1.22
 Pillow
 scanpy>=1.8.2
